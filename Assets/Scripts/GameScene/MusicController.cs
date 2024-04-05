@@ -14,7 +14,7 @@ namespace game
         bool played;
         void Start()
         {
-            songName = "2s_441khz16bit";
+            songName = "y2mate.com-For-a-Few-Dollars-More—[—z‚ÌƒKƒ“ƒ}ƒ“Ennio-Morricone_320kbps";
             audio = GetComponent<AudioSource>();
             music = (AudioClip)Resources.Load(songName);
             played = false;
